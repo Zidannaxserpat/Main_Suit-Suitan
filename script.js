@@ -272,7 +272,7 @@ if(confirm == true){
     }
   }
 
-  alert("Zidan memilih "+bot+" sedangkan kamu milih "+player+" hasil permainan: "+hasil);
+  alert("Zidan memilih "+bot+" sedangkan Lia milih "+player+" hasil permainan: "+hasil);
 }else{
   alert("Kok di cancel, kan mau main bareng kita )...;")
 }
