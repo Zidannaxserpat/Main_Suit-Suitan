@@ -224,10 +224,10 @@
 // alert("Oke makasih udah main");
 
 
-confirm = confirm("Permainan Batu(1), Gunting(2), Kertas(3)");
+confirm = confirm("Permainan Batu, Gunting, Kertas");
 if(confirm == true){
 
-  let playerInput = prompt("Pilih Batu(1), Gunting(2), Kertas(3):");
+  let playerInput = prompt("Pilih Batu, Gunting, Kertas:");
   let player = playerInput.toLowerCase(); // Convert input to lowercase
 
   
